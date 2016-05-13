@@ -60,8 +60,11 @@ D：当你的平台对外发布时，不想显示DSWJCMS相关版权信息时，
 Q：安装后只能显示首页，其它页面显示404页？
 
 D：
+
 1、Apache配置文件httpd.conf中查找mod_rewrite.so，将LoadModule rewrite_module modules/mod_rewrite.so前面的#去掉
+
 2、如还不能解决下载兼容版
+
 3、Apache配置文件httpd.conf中查找AllowOverride None 将None改为 All 
 
 Q：Linux安装、上传图片无法实现？
