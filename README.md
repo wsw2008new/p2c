@@ -43,8 +43,11 @@ Dsp2p发展历史：
 dsp2c演示地址：http://p2cbasis.tifaweb.com
 
 # Dsp2p环境要求
+
 1、php5+mysql5+APACHE2（推荐php版本在3以上）
+
 2、云服务器或以上配置，具备独立安装PHP环境
+
 3、windows、linux系统都支持
 
 # 常见问题解答
